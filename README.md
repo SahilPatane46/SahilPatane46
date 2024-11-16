@@ -2,7 +2,7 @@
 
 **Hello! I'm Sahil Patane, a Java Full Stack Development student from Mumbai.**
 
-![Profile Image](https://via.placeholder.com/150) <!-- Replace with your profile image URL -->
+<img src="https://your-image-url.com" alt="Profile Image" width="150" /> <!-- Replace with your profile image URL -->
 
 ---
 
@@ -10,8 +10,8 @@
 
 I am a passionate Full Stack Developer with a strong interest in Java development. I love building web applications and improving my coding skills.
 
-- 🌱 I’m currently learning Java Full Stack Development.
-- 👯 I’m looking to collaborate on remote projects.
+- 🌱 Currently learning Java Full Stack Development.
+- 👯 Looking to collaborate on remote projects.
 - 💬 Ask me about HTML, CSS, JavaScript, C, and C++.
 - 📫 How to reach me: [patanesahil@gmail.com](mailto:patanesahil@gmail.com)
 - ⚡ Fun fact: I enjoy solving complex algorithms in my free time.
@@ -19,8 +19,6 @@ I am a passionate Full Stack Developer with a strong interest in Java developmen
 ---
 
 ## 🛠️ Languages and Tools
-
-Here are some technologies I've been working with recently:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -33,37 +31,17 @@ Here are some technologies I've been working with recently:
 
 ## 🚀 Projects
 
-Here are a few of my recent projects:
-
 ### Project 1: [Project Name]
 ![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
 **Description:** [A brief description of the project]
-**Tech Stack:** [Technologies used]
-**Link:** [Link to project or repository]
 
 ### Project 2: [Project Name]
 ![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
 **Description:** [A brief description of the project]
-**Tech Stack:** [Technologies used]
-**Link:** [Link to project or repository]
 
 ### Project 3: [Project Name]
 ![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
 **Description:** [A brief description of the project]
-**Tech Stack:** [Technologies used]
-**Link:** [Link to project or repository]
-
----
-
-## 📈 GitHub Stats
-
-![Sahil Patane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- [List of achievements, certifications, or notable accomplishments]
 
 ---
 
@@ -76,7 +54,5 @@ Here are a few of my recent projects:
 ---
 
 Thank you for visiting my profile! Feel free to connect with me.
-
----
 
 **Let's make something awesome together!**
