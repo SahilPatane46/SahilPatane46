@@ -2,6 +2,8 @@
 
 **Hello! I'm [Your Name], a [Your Job Title] from [Your Location].**
 
+![Profile Image](https://via.placeholder.com/150)
+
 ---
 
 ## 👩‍💻 About Me
@@ -20,7 +22,10 @@ I am a passionate [Your Profession or Field] with a strong interest in [Your Int
 
 Here are some technologies I've been working with recently:
 
-- [List of programming languages, tools, and technologies]
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -29,16 +34,19 @@ Here are some technologies I've been working with recently:
 Here are a few of my recent projects:
 
 ### Project 1: [Project Name]
+![Project Logo](https://via.placeholder.com/50)
 **Description:** [A brief description of the project]
 **Tech Stack:** [Technologies used]
 **Link:** [Link to project or repository]
 
 ### Project 2: [Project Name]
+![Project Logo](https://via.placeholder.com/50)
 **Description:** [A brief description of the project]
 **Tech Stack:** [Technologies used]
 **Link:** [Link to project or repository]
 
 ### Project 3: [Project Name]
+![Project Logo](https://via.placeholder.com/50)
 **Description:** [A brief description of the project]
 **Tech Stack:** [Technologies used]
 **Link:** [Link to project or repository]
@@ -59,10 +67,10 @@ Here are a few of my recent projects:
 
 ## 📫 Get in Touch
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter](https://twitter.com/yourprofile)
-- Portfolio: [Your Portfolio Website](https://yourwebsite.com)
+![Email](https://img.shields.io/badge/-your-email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-Your%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/-Your%20Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+![Portfolio](https://img.shields.io/badge/-Your%20Portfolio%20Website-000000?style=flat-square&logo=github-pages&logoColor=white)
 
 ---
 
