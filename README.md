@@ -1,53 +1,62 @@
-# Hi, I'm [Your Name] 👋
+# Sahil Patane
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** who loves building innovative solutions. I enjoy working on diverse technologies, from backend to frontend, and I'm constantly learning new things.
+Hello! I'm Sahil Patane, a Java Full Stack Development student from Mumbai.
 
-![Banner Image](https://your-banner-image-url) <!-- Optional: Use a custom banner image -->
+<!-- <img src="https://drive.google.com/uc?export=view&id=16PtqDYRnnnGru8ritXd8iYnYZ2GDulNr" alt="Profile Image" width="150" height="150" /> Use direct link for Google Drive or replace with Imgur URL -->
 
-## 🚀 About Me
 
-- 🔭 I’m currently working on exciting web and mobile applications
-- 🌱 I’m always learning new technologies and best practices
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about JavaScript, Python, React, Node.js, and more
-- 📫 How to reach me: [Your Email or Contact Link]
-- ⚡ Fun fact: I love solving problems and automating tasks!
+---
 
-## 🔗 Connect with me
+## 👩‍💻 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/yourusername)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yourusername) <!-- Updated X (Twitter) logo with black background -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+I am a passionate Full Stack Developer with a strong interest in Java development. I love building web applications and improving my coding skills.
 
-## 🛠️ Technologies & Tools
+- 🌱 Currently learning Java Full Stack Development.
+- 👯 Looking to collaborate on remote projects.
+- 💬 Ask me about HTML, CSS, JavaScript, C, and C++.
+- 📫 How to reach me: [patanesahil@gmail.com](mailto:patanesahil@gmail.com)
+- ⚡ Fun fact: I enjoy solving complex algorithms in my free time.
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C#
-- **Frameworks & Libraries:** React, Express, Node.js, Angular, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Docker, Git, CI/CD, Webpack, VS Code
+---
 
+## 🛠️ Languages and Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### Project 1: [Project Name]
+![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
+Description: [A brief description of the project]
+
+### Project 2: [Project Name]
+![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
+Description: [A brief description of the project]
+
+### Project 3: [Project Name]
+![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
+Description: [A brief description of the project]
+
+---
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
----
+## 📫 Get in Touch
 
-### 📊 My Latest Projects
-
-- [Project 1](link-to-project): Description of your project.
-- [Project 2](link-to-project): Description of your project.
-- [Project 3](link-to-project): Description of your project.
+[![Email](https://img.shields.io/badge/-patanesahil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patanesahil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Sahil%20Patane-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patane-b58005314)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/SahilPatane)
 
 ---
 
-### 📝 Blog & Articles
+Thank you for visiting my profile! Feel free to connect with me.
 
-I also write about programming, technology, and best practices on my [Blog](your-blog-url) or share updates on [Dev.to](your-dev-to-profile).
-
----
-
-### 🤝 Support My Work
-
-If you like my projects and want to support my work, consider [sponsoring me on GitHub](link-to-sponsor-page) or [buying me a coffee](link-to-buy-me-a-coffee-page).
-
-Thank you for visiting my GitHub! I look forward to connecting with you and collaborating on great projects. 😊
+Let's make something awesome together!+
