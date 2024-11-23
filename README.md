@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** who loves 
 ## 🔗 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/yourusername) <!-- Updated Twitter logo to X -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 
 ## 🛠️ Technologies & Tools
