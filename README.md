@@ -13,7 +13,7 @@ I am a passionate Full Stack Developer with a strong interest in Java developmen
 
 - 🌱 Currently learning Java Full Stack Development.
 - 👯 Looking to collaborate on remote projects.
-- 💬 Ask me about HTML, CSS, JavaScript, C, and C++.
+- 💬 Ask me about HTML, CSS, JavaScript, C and C++.
 - 📫 How to reach me: [patanesahil@gmail.com](mailto:patanesahil@gmail.com)
 - ⚡ Fun fact: I enjoy solving complex algorithms in my free time.
 
