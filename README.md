@@ -2,7 +2,7 @@
 
 **Hello! I'm Sahil Patane, a Java Full Stack Development student from Mumbai.**
 
-<img src="https://drive.google.com/uc?export=view&id=16PtqDYRnnnGru8ritXd8iYnYZ2GDulNr" alt="Profile Image" width="150" height="150" /> <!-- Use direct link for Google Drive or replace with Imgur URL -->
+<!-- <img src="https://drive.google.com/uc?export=view&id=16PtqDYRnnnGru8ritXd8iYnYZ2GDulNr" alt="Profile Image" width="150" height="150" /> Use direct link for Google Drive or replace with Imgur URL -->
 
 ---
 
@@ -49,7 +49,7 @@ I am a passionate Full Stack Developer with a strong interest in Java developmen
 
 [![Email](https://img.shields.io/badge/-patanesahil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patanesahil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Sahil%20Patane-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patane-b58005314)
-[![Twitter](https://img.shields.io/badge/-SahilPatane-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SahilPatane)
+[![Twitter](https://img.shields.io/badge/-Sahil Patane-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SahilPatane)
 
 ---
 
