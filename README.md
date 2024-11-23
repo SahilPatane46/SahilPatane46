@@ -2,7 +2,7 @@
 
 **Hello! I'm Sahil Patane, a Java Full Stack Development student from Mumbai.**
 
-<img src="[https://sl.bing.net/iayWYfHrVhQ" alt="Profile Image](https://sl.bing.net/iayWYfHrVhQ)" width="150" height="150" /> <!-- Use direct link for Google Drive or replace with Imgur URL -->
+
 
 ---
 
