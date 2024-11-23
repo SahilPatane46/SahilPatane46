@@ -49,7 +49,7 @@ I am a passionate Full Stack Developer with a strong interest in Java developmen
 
 [![Email](https://img.shields.io/badge/-patanesahil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patanesahil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Sahil%20Patane-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patane-b58005314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/-SahilPatane-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SahilPatane?t=b9dCDIhvLQ_cQAucr-U74Q&s=09)
+https://img.shields.io/badge/-SahilPatane-1DA1F2?style=flat-square&logo=twitter&logoColor white)](https://x.com/SahilPatane?t=b9dCDIhvLQ_cQAucr-U74Q&s=09)
 
 ---
 
