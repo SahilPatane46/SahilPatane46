@@ -30,6 +30,12 @@ I am a passionate Full Stack Developer with a strong interest in Java developmen
 
 ---
 
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
 ## 🚀 Projects
 
 ### Project 1: [Project Name]
@@ -45,15 +51,12 @@ Description: [A brief description of the project]
 Description: [A brief description of the project]
 
 ---
-## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## 📫 Get in Touch
+## 🔗 Get in Touch
 
 [![Email](https://img.shields.io/badge/-patanesahil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patanesahil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Sahil%20Patane-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patane-b58005314)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/SahilPatane)
+[![X (Twitter)](https://img.shields.io/badge/SahilPatane-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/SahilPatane)
 
 ---
 
