@@ -30,6 +30,7 @@ Description: [A brief description of the project]
 ![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
 Description: [A brief description of the project]
 
+<img src="https://raw.githubusercontent.com/SahilPatane46/SahilPatane46/output/snake.svg" alt="Snake animation" />
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SahilPatane46&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
