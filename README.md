@@ -9,7 +9,7 @@ Hello! I'm Sahil Patane, a Java Full Stack Development Student from Mumbai.
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/questions) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/home) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patanesahil@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/home) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patanesahil@gmail.com) 
 
 
 # 💻 Tech Stack:
@@ -18,18 +18,13 @@ Hello! I'm Sahil Patane, a Java Full Stack Development Student from Mumbai.
 
 # 🚀 Projects
 
-### Project 1: [Project Name]
-![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
-Description: [A brief description of the project]
+### Project 1: Gro-Mart a Grocery Shopping Website
+https://e-commerce-grocery-website.vercel.app/
+Description: Developed an e-commerce platform for online grocery shopping, allowing users to browse and purchase groceries seamlessly.
 
 ### Project 2: [Project Name]
 ![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
 Description: [A brief description of the project]
-
-### Project 3: [Project Name]
-![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
-Description: [A brief description of the project]
-
 
 
 ## 📊 GitHub Stats:
