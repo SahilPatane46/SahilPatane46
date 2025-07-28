@@ -19,7 +19,7 @@ Hello! I'm Sahil Patane, a Java Full Stack Development Student from Mumbai.
 # 🚀 Projects
 
 ### Project 1: Gro-Mart a Grocery Shopping Website
-https://e-commerce-grocery-website.vercel.app/
+https://e-commerce-grocery-website.vercel.app/<br/>
 Description: Developed an e-commerce platform for online grocery shopping, allowing users to browse and purchase groceries seamlessly.
 
 ### Project 2: [Project Name]
