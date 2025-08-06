@@ -22,9 +22,9 @@ Hello! I'm Sahil Patane, a Java Full Stack Development Student from Mumbai.
 https://e-commerce-grocery-website.vercel.app/<br/>
 Description: Developed an e-commerce platform for online grocery shopping, allowing users to browse and purchase groceries seamlessly.
 
-### Project 2: [Project Name]
-![Project Logo](https://via.placeholder.com/50) <!-- Replace with your project logo URL -->
-Description: [A brief description of the project]
+### Project 2: Smart Library Management System 
+https://github.com/SahilPatane46/smart-library-management (Based On Command Line Interface) <br/>
+Description:  Developed a console-based smart library management system to manage books, users, and transactions with role-based access for admin and students. 
 
 
 ## 📊 GitHub Stats:
